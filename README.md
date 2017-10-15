@@ -1,5 +1,7 @@
 # GUM_Dispenser
 
+Dispenses Generated UML Markup
+
 A helpful tool that generates NOMNOML (nomnoml.com) output so you have a visual of your Python source code!
 
 Thanks so much to Daniel Kallin for creating such an amazing website!
